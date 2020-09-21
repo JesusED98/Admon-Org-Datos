@@ -1,3 +1,6 @@
+# Jesus Roberto Estrada Diaz
+# 17231071
+# Practica 1.6
 # creacion de un arrchivo binario metodod 2
 
 # importamos el modulo pickle
