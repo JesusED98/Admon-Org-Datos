@@ -1,3 +1,6 @@
+# Jesus Roberto Estrada Diaz
+# 17231071
+# Practica 1.6
 from pickle import Pickler
 import pickle
 
