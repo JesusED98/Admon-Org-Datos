@@ -1,3 +1,6 @@
+# Jesus Roberto Estrada Diaz
+# 17231071
+# Practica 1.5
 # creacion de un archivo binario
 
 print("creacion de un archivo binario")
