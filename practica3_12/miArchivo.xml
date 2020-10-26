@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+  <pelicula peli_id="1">
+    <titulo>Twister</titulo>
+    <año>1996</año>
+    <genero>Acción</genero>
+    <clasificacion>A</clasificacion>
+  </pelicula>
+<pelicula peli_id="2"><titulo>Pacto Infernal</titulo><año>2006</año><genero>Terror</genero><clasificacion>B15</clasificacion></pelicula><pelicula peli_id="3"><titulo>Resident Evil</titulo><año>2002</año><genero>Terror</genero><clasificacion>B15</clasificacion></pelicula><pelicula peli_id="4"><titulo>Blade</titulo><año>1998</año><genero>Acción</genero><clasificacion>B15</clasificacion></pelicula><pelicula peli_id="5"><titulo>Nueve Semanas y Media</titulo><año>1986</año><genero>Drama</genero><clasificacion>R</clasificacion></pelicula></peliculas>
